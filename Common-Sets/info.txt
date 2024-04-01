@@ -1,0 +1,8 @@
+[ID:timesaver_sets]
+[NAME:Timesaver Sets]
+[NUMERIC_VERSION:1]
+[DISPLAYED_VERSION:1.0]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.0]
+[AUTHOR:klliio]
+[DESCRIPTION:Adds reactions to make common sets of items.]
